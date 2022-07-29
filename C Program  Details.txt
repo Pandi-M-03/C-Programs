@@ -1,0 +1,157 @@
+        
+                                       
+                                                                  C  Programing  Deatils
+
+
+1.  Input
+
+2.  Output
+
+3.  Memory
+
+4.  ALU
+
+5.  CPU
+
+
+                 Memory
+
+
+ Primary Memory ( RAM )
+ 
+ Secondary Memory ( Hard disk , CD drive ,  Pen Drive )
+
+ 
+                 Input
+
+Keybord
+
+Mouse
+
+                 Output
+
+
+Display ( Desktop )
+
+               
+
+                                                               Memory Variables
+Int  1,2,3
+
+Float 1.2 , 3.1
+
+Char[]  'A' , 'B'  ,  "ABCD"
+
+Double Float  1.22222222222222222
+
+Long  23L
+
+
+
+                                                                 Arithmetic  Operators
+
+
+
+Assaignment operators
+
+Compound operators
+
+Relative operators
+
+Logic operators      
+        
+
+                  Assaignment  Operators
+
+ 
+ + ( Addition )
+ - ( Substraction )
+ / ( Division )
+ * ( Multiplication )
+ % ( Modulus )
+ ++ ( increment operator )
+ -- ( Decrement operator )
+
+
+                  Compound Assainment  Operators
+
+
+ +=
+ -=
+ *=
+ /=
+ %=
+ 
+
+                  Relative  operators
+
+
+ <
+ >
+ <=
+ >=
+ ==
+
+                  Logic  Operators
+
+
+ !=  ( Not )
+ &&  ( And )
+ ||  ( Or  )
+ Pow ( 1,2 ) 1 power of 2
+ sqr ( 5 )   
+
+                                                   Functions
+
+
+ printf
+ scanf
+
+ puts
+ gets()
+
+ variable = getchar()
+
+
+                                              Conditional  Statement
+
+ If {
+}
+ else if {
+}
+ else {
+}
+
+
+
+
+Switch(varriable)
+{
+   case 1:
+     Statement;
+    break;
+
+   case 2:
+     Statement;
+    break;
+
+   default:
+     Statement;
+    break;
+}         
+
+
+
+                                   Loop
+
+While()  loop
+
+
+for loop
+(i=0 ; i<10 ; i++);
+
+do {
+}while
+
+
+                                                                                       
